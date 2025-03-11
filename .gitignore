@@ -15,3 +15,6 @@ labels.npy
 cropped_faces/
 
 example.py
+
+data/
+images/
