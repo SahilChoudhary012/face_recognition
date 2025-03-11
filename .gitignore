@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+venv/
+*.env
+
+*.h5
+*.onnx
+*.tar.gz
+facenet_model/
+
+embeddings.npy
+labels.npy
+cropped_faces/
+
