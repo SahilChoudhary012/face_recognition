@@ -1,0 +1,4 @@
+OpenCV
+FaceNet-PyTorch
+NumPy
+SciPy
